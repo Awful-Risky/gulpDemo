@@ -1,0 +1,11 @@
+nav{
+	text-align: center;
+}
+nav ul{
+	border-color: yellow;
+}
+.list-items {
+	float:left;
+	color:red;
+	background-color: blue;
+}
